@@ -1,4 +1,4 @@
-FROM nginx:1.10
+FROM nginx:1.19
 
 ENV UPLOAD_MAX_FILESIZE 64M
 ENV XDEBUG_HOST fpm_xdebug
