@@ -125,7 +125,7 @@ Configure magento to use redis, elasticsearch and varnish if you choose to run t
 
 - [Git](https://github.com/DominicWatts/Magento2CloudNginx)
 
-nginx versions: 1.9, 1.10
+nginx versions: 1.9, 1.10, 1.17, 1.19
 
 ### php-fpm
 
